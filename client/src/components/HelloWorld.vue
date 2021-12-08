@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="hello" alig='center'>
     <h1>Todo List</h1>
     <form @submit.prevent="createpost">
       <div>
